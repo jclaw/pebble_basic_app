@@ -1,0 +1,23 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Jackson Clawson",
+    "longName": "Tutorial 1",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Tutorial 1",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "216cd416-024a-4c03-b3a0-85d10db2219c",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
