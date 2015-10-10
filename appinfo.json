@@ -7,7 +7,18 @@
     "longName": "Tutorial 1",
     "projectType": "native",
     "resources": {
-        "media": []
+        "media": [
+            {
+                "file": "images/background.png",
+                "name": "BACKGROUND_IMAGE",
+                "type": "png"
+            },
+            {
+                "file": "fonts/RobotoSlab-Bold.ttf",
+                "name": "ROBOTO_SLAB_BOLD_SUBSET_46",
+                "type": "font"
+            }
+        ]
     },
     "sdkVersion": "3",
     "shortName": "Tutorial 1",
