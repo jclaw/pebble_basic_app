@@ -1,3 +1,3 @@
-# pebble_basic_app
+# pebble_basic_watchface
 
 This is a barebones Pebble Watchface app that displays the time. 
